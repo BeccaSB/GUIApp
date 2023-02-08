@@ -1,6 +1,6 @@
-# GUIApp
+# GUIApp Chess Game Legal Moves
 
-# Here we are coding for a function that returns whether a provided pawn move for chess is valid. You should expect to write more than just this function. Also write the supporting logic and structures needed to accomplish the goal. You do not have to unit test, but you should approach this problem as if we will unit test your code.
+Here we are coding for a function that returns whether a provided pawn move for chess is valid. You should expect to write more than just this function. Also write the supporting logic and structures needed to accomplish the goal. You do not have to unit test, but you should approach this problem as if we will unit test your code.
 
 For a chess refresher, here is the setup:
 •	8x8 board
